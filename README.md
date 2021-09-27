@@ -1,5 +1,5 @@
 - Hi, This is Misaka_ZeroTwo, aka Killla
-- I’m interested in Computer Engineer and Game Design
+- I’m interested in Computer Science and Game Design
 - I’m currently learning C#
 - I'm a SCP:SL plugin dev
 
