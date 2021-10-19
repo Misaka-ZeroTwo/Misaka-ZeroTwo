@@ -3,7 +3,7 @@
 - I’m currently learning C#
 - I'm a SCP:SL plugin dev
 
-![Killla's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaguanyang&count_private=true&show_icons=true&theme=radical)
+![Killla's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaguanyang&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaguanyang)](https://github.com/zhaguanyang/github-readme-stats)
 
