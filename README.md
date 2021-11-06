@@ -2,6 +2,8 @@
 - I’m interested in Computer Science and Game Design
 - I’m currently learning C#
 - I'm a SCP:SL plugin dev
+- Discord: Misaka_ZeroTwo#6368
+- Email: admin@Killla.space
 
 ![Killla's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaguanyang&count_private=true)
 
