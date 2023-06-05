@@ -1,8 +1,7 @@
 - Hi, This is Misaka_ZeroTwo, aka Killla
-- I’m interested in Computer Science and Game Design
-- I’m currently learning C#
+- Major in Cybersecurity
 - I'm a SCP:SL plugin dev
-- Discord: Misaka_ZeroTwo#6368
+- Discord: Misaka_ZeroTwo#3737
 - Email: admin@Killla.space
 
 Archived repos are in <a href="https://github.com/zhaguanyang-Archived?tab=repositories" target="_blank">@zhaguanyang-Archived</a>
